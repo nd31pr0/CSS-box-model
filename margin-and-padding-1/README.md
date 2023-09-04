@@ -12,4 +12,4 @@ For this first exercise, the goal is to edit the style.css file so that the divs
 
 
 ## My output
-![Alt text](margin-and-padding-1/my-output.png)
+![Alt text](my-output.png)
